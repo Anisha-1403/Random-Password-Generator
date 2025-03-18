@@ -13,3 +13,5 @@ while True:
         print("🔒 Your Random Password:", password)
     else:
         print("Please enter a valid number (minimum length: 4).")
+
+input("\nPress Enter to exit...")
